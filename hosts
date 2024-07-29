@@ -1,0 +1,2 @@
+mikhno-vm07 ansible_host=10.10.0.47 ansible_user=root
+mikhno-vm08 ansible_host=10.10.0.48 ansible_user=root	new_hostname=mikhno-vm08-ansbl
